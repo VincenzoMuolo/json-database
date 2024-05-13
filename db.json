@@ -19,7 +19,12 @@
     { "id": 17, "Testo": "Vi ringrazio per aver ascoltato la mia lezione sulla piramide alimentare ! Spero che possa essere utile nel corso della vostra vita. Un caloroso in bocca al lupo dal vostro amico Pepper !"}
   ],
   "1": [
-    { "id": 1, "Titolo": "La Piramide Alimentare"}
+    { "id": 1, "Titolo": "La Piramide Alimentare"},
+    { "id": 2, "Titolo": "Biancaneve"},
+    { "id": 3, "Titolo": "Io sono il Pepper Sbagliato"},
+    { "id": 4, "Titolo": "Mangiare bene, Vivere meglio"},
+    { "id": 5, "Titolo": "I tre porcellini"}
+    
   ],
   "profile": {
     "name": "typicode"
