@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "0": [
     { "id": 1, "Testo": "Il legame, tra l’uomo e il cibo, risulta essere importante per comprendere quali alimenti sono utili per l’organismo. Prima di vedere quali alimenti sono utili per l’uomo, dobbiamo comprendere da cosa è composto" },
     { "id": 2, "Testo": "L’uomo è composto da circa il 65 % d’acqua, 16% da proteine, 13% da lipidi (grasso), 5% da Sali minerali e 1% da Carboidrati. Tutte queste sostanze chimiche che si trovano nel nostro corpo, le possiamo ritrovare all’interno dei cibi che consumiamo ogni giorno e per questo dobbiamo comprendere cosa è necessario mangiare per essere in forma." },
     { "id": 3, "Testo": "Assumere i giusti alimenti consente di avere la giusta energia per svolgere le attività che generalmente eseguiamo. Inoltre, una giusta alimentazione, è molto importante nel mondo dello sport perché permette di conseguire ottimi risultati sportivi." },
@@ -16,7 +16,7 @@
     { "id": 14, "Testo": "Nel livello successivo, sempre nel blocco giallo, troviamo gli insaccati, come ad esempio il salame, e le uova. Questi alimenti contengono molti grassi e per questo motivo devono essere consumati fino a una volta durante il corso della settimana."},
     { "id": 15, "Testo": "Nel livello finale della piramide, cioè nel blocco rosso, troveremo gli alimenti che devono essere assunti mensilmente. Nel livello inferiore di questo blocco troveremo gli alimenti che comunemente chiameremo cibo spazzatura, oppure ad esempio, sempre di questa categoria, prendono parte gli alimenti presenti nelle pasticcerie come torte o pasticcini. Questi alimenti devono essere assunti occasionalmente (durante le feste), poiché non danno alcun valore nutrizionale oppure come nel caso dei dolci contengono molti grassi. Infine, nel livello estremo del blocco e della piramide, troviamo il sale e lo zucchero, i quali se assunti in grandi dosi possono risultare dannose per l’organismo."},
     { "id": 16, "Testo": "Come ultima raccomandazione è utile bere 2 litri d’acqua ogni giorno, poiché il corpo dell’essere umano è composto da moltissime cellule che a loro volta, al loro interno, contengono acqua. Quindi idratandoci favoriamo la crescita cellulare ed inoltre eliminiamo le impurità presenti nel nostro organismo."},
-    { "id": 17, "Testo": "Vi ringrazio per aver ascoltato la mia lezione sulla piramide alimentare ! Spero che possa essere utile nel corso della vostra vita. Un caloroso in bocca al lupo dal vostro amico Pepper !"},
+    { "id": 17, "Testo": "Vi ringrazio per aver ascoltato la mia lezione sulla piramide alimentare ! Spero che possa essere utile nel corso della vostra vita. Un caloroso in bocca al lupo dal vostro amico Pepper !"}
   ],
   "profile": {
     "name": "typicode"
