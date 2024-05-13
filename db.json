@@ -18,6 +18,9 @@
     { "id": 16, "Testo": "Come ultima raccomandazione è utile bere 2 litri d’acqua ogni giorno, poiché il corpo dell’essere umano è composto da moltissime cellule che a loro volta, al loro interno, contengono acqua. Quindi idratandoci favoriamo la crescita cellulare ed inoltre eliminiamo le impurità presenti nel nostro organismo."},
     { "id": 17, "Testo": "Vi ringrazio per aver ascoltato la mia lezione sulla piramide alimentare ! Spero che possa essere utile nel corso della vostra vita. Un caloroso in bocca al lupo dal vostro amico Pepper !"}
   ],
+  "1": [
+    { "id": 1, "Titolo": "La piramide alimentare"}
+  ],
   "profile": {
     "name": "typicode"
   }
