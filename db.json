@@ -23,8 +23,8 @@
     { "id": 2, "Titolo": "Biancaneve"},
     { "id": 3, "Titolo": "Io sono il Pepper Sbagliato"},
     { "id": 4, "Titolo": "Mangiare bene, Vivere meglio"},
-    { "id": 5, "Titolo": "L'alimentazione"}
-    
+    { "id": 5, "Titolo": "L'alimentazione"},
+    { "id": 6, "Titolo": "I tre porcellini"}
   ],
   "profile": {
     "name": "typicode"
