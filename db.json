@@ -20,11 +20,10 @@
   ],
   "1": [
     { "id": 1, "Titolo": "La Piramide Alimentare"},
-    { "id": 2, "Titolo": "Biancaneve"},
+    { "id": 2, "Titolo": "I tre porcellini"},
     { "id": 3, "Titolo": "Io sono il Pepper Sbagliato"},
     { "id": 4, "Titolo": "Mangiare bene, Vivere meglio"},
-    { "id": 5, "Titolo": "L'alimentazione"},
-    { "id": 6, "Titolo": "I tre porcellini"}
+    { "id": 5, "Titolo": "L'alimentazione"}
   ],
   "profile": {
     "name": "typicode"
